@@ -20,7 +20,6 @@ const greeter = new Greeter("arya")
 greeter.sayhelloTo("shalini")
 const greeter1 = new Greeter("Nagi")
 greeter1.sayhelloTo("Mohan") */
-
 import {Logger} from "../logger.js";
 import {person}form "./Module1.js";
 const logger = new Logger();
